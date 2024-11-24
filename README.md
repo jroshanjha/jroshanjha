@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Roshan Jha
+
+✅<h3> I'm a Software developer & Looking for a career in Data Analytics ( Python + SQL) with Machine Learning. </h3>
 
 <!--
 **jroshanjha/jroshanjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
