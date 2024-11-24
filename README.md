@@ -8,6 +8,10 @@
  
  📫 How To Reach ME:- jroshan731@gmail.com 
 
+ ✈️ Currently I am Most Interested in Machine learning and Artificial intelligence. like Deep learning, NLP, and Generative AI. 
+
+ Connect With me:- https://www.linkedin.com/in/roshan-jha-%F0%9F%87%AE%F0%9F%87%B3-6731b31b2
+
 <!--
 **jroshanjha/jroshanjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
