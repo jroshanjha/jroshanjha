@@ -1,6 +1,12 @@
 ## Hi there 👋 I'm Roshan Jha
 
-✅<h3> I'm a Software developer & Looking for a career in Data Analytics ( Python + SQL) with Machine Learning. </h3>
+✅<h3> A Software developer & Looking for a career in Data Analytics ( Python + SQL) with Machine Learning. </h3>
+
+ Follow:- @techworld_jroshan
+
+ My Machine Learning & Exploladation Data Analysis (EDA) Contibution :- https://github.com/jroshanjha/MachineLearning
+ 
+ 📫 How To Reach ME:- jroshan731@gmail.com 
 
 <!--
 **jroshanjha/jroshanjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
