@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Roshan Jha
 
-✅<h3> A Software developer & Looking for a career in Data Analytics ( Python + SQL) with Machine Learning. </h3>
+✅<h3> A Software developer & Looking for a New Opportunity In Data Domain or Software Developer </h3>
                                                                                                           
  Follow:- @techworld_jroshan
 
