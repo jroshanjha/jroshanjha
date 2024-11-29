@@ -1,6 +1,12 @@
 ## Hi there 👋 I'm Roshan Jha
 
-✅<h3> A Software developer & Looking for a New Opportunity In Data Domain or Software Developer </h3>
+✅<h3>✅ I'm a Software developer & Looking for a New Opportunity In the Data Domain or Software Developer
+
+Machine Learning & Statistics | Laravel & CakePHP & MySql  | 💻 Data Analytics ( Python, SQL ) | 💻Content Creator & Educator| 💻Problem Solving | 💻Leet Code & Hacker Rank
+
+✈️ Currently I am Most Interested in Machine learning and Artificial intelligence, like Deep learning, NLP, and Generative AI. 
+
+Please I want to Need a Better Opportunity? </h3>
                                                                                                           
  Follow:- @techworld_jroshan
 
