@@ -2,6 +2,7 @@
 
 ✅<h3>✅ I'm a Software developer & Looking for a New Opportunity In the Data Domain or Software Developer
 
+Key Skills:- 
  Programming Languages: Python, JavaScript, PHP, C/C++  <br>
  
  Databases: MySQL, PostgreSQL, SQL Server <br>
