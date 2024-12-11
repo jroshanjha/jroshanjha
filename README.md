@@ -2,6 +2,15 @@
 
 ✅<h3>✅ I'm a Software developer & Looking for a New Opportunity In the Data Domain or Software Developer
 
+ Programming Languages: Python, JavaScript, PHP, C/C++  <br>
+ Databases: MySQL, PostgreSQL, SQL Server <br>
+ Data Analysis & Visualization: NumPy, pandas, SQL, Matplotlib, Seaborn, SciPy <br>
+ Machine Learning: Regression, Classification, Clustering, Association <br>
+ Libraries & Tools: Scikit-learn, TensorFlow, Keras, NLTK, spaCy, FastText <br>
+ Frameworks: Flask, Django, CakePHP, Laravel, Bootstrap  <br>
+ Other Tools: NLP, Google Colab, Jupyter Notebook, Kaggle <br>
+ Version Control: GitHub & Open Force
+
 Machine Learning & Statistics | Laravel & CakePHP & MySql  | 💻 Data Analytics ( Python, SQL ) | 💻Content Creator & Educator| 💻Problem Solving | 💻Leet Code & Hacker Rank
 
 ✈️ Currently I am Most Interested in Machine learning and Artificial intelligence, like Deep learning, NLP, and Generative AI. 
