@@ -16,13 +16,23 @@
   Development Tools: VS Code, Jupyter Notebook, Google Colab, Kaggle, and Postman for API Testing <br>
   Repository : GitHub , OpenForce , Render , Heroku , AWS  <br>
 
+🤔 I’m looking for help with Your For Get better jobs opportunity in  Data Science Domain.
+
+📫 How to reach me: ...  jroshan731@gmail.com 
+
+## Connect With me:- 
+https://www.linkedin.com/in/roshan-jha-%F0%9F%87%AE%F0%9F%87%B3-6731b31b2
+## Instagram 
+@techworld_jroshan
+
+
+
 Machine Learning & Statistics | Laravel & CakePHP & MySql  | 💻 Data Analytics ( Python, SQL ) | 💻Content Creator & Educator| 💻Problem Solving skills | 💻Leet Code & Hacker Rank
 
 ✈️ Currently I am Most Interested in Machine learning and Artificial intelligence, like Deep learning, NLP, and Generative AI. 
 
 Please I want to Need a Better Opportunity? </h3>
                                                                                                           
- Follow:- @techworld_jroshan
 
  My Machine Learning & Exploladation Data Analysis (EDA) Contibution :- https://github.com/jroshanjha/MachineLearning
  
@@ -30,7 +40,7 @@ Please I want to Need a Better Opportunity? </h3>
 
  ✈️ Currently I am Most Interested in Machine learning and Artificial intelligence. like Deep learning, NLP, and Generative AI. 
 
- Connect With me:- https://www.linkedin.com/in/roshan-jha-%F0%9F%87%AE%F0%9F%87%B3-6731b31b2
+ 
 
 <!--
 **jroshanjha/jroshanjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
