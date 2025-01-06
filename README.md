@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Roshan Jha
+## Hi there 😄 I'm Roshan Jha ....
 
 <h4> 🔭 I'm a Software developer & Looking for a New Opportunity In the Data Domain or Software Developer </h4>
 
-🌱 I’m currently learning NLP, LANGCHAIN for Generative AI TASK...
+🌱 I’m currently learning  Deep learning, NLP, and LANGCHAIN For Generative AI....
 
 👯 I’m looking to collaborate with Data Science Domain...
 
@@ -25,20 +25,21 @@ https://www.linkedin.com/in/roshan-jha-%F0%9F%87%AE%F0%9F%87%B3-6731b31b2
 ## Instagram 
 @techworld_jroshan
 
+✈️ My Machine Learning & Exploladation Data Analysis (EDA) Contibution :- 
+ https://github.com/jroshanjha/MachineLearning  <Br> 
+
+@Software Developer |  Data Scientist & Machine Learning | 💻 Data Analytics | Python | SQL | NLP | Deep Learning  | 💻Content Creator & Educator| 💻Problem Solving skills | 💻Leet Code & Hacker Rank
 
 
-Machine Learning & Statistics | Laravel & CakePHP & MySql  | 💻 Data Analytics ( Python, SQL ) | 💻Content Creator & Educator| 💻Problem Solving skills | 💻Leet Code & Hacker Rank
+# Thank you visit my profile ..
 
-✈️ Currently I am Most Interested in Machine learning and Artificial intelligence, like Deep learning, NLP, and Generative AI. 
+# Have A Great Day
 
-Please I want to Need a Better Opportunity? </h3>
-                                                                                                          
+                                                                                                         
 
- My Machine Learning & Exploladation Data Analysis (EDA) Contibution :- https://github.com/jroshanjha/MachineLearning
+
+
  
- 📫 How To Reach ME:- jroshan731@gmail.com 
-
- ✈️ Currently I am Most Interested in Machine learning and Artificial intelligence. like Deep learning, NLP, and Generative AI. 
 
  
 
