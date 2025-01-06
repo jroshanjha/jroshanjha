@@ -14,7 +14,7 @@
   Libraries & Tools: Scikit-learn, TensorFlow, Keras, NLTK, SpaCy, Gensim, FastText <br>
   Frameworks: Flask, Django, CakePHP, Laravel, Bootstrap, Stremlit <br>
   Development Tools: VS Code, Jupyter Notebook, Google Colab, Kaggle, and Postman for API Testing <br>
-  Repository : GitHub , OpenForce , Render , Heroku , AWS  <br>
+  Repository : GitHub , OpenForce, Render , Heroku <br>
 
 🤔 I’m looking for help with Your For Get better jobs opportunity in  Data Science Domain.
 
@@ -25,7 +25,7 @@ https://www.linkedin.com/in/roshan-jha-%F0%9F%87%AE%F0%9F%87%B3-6731b31b2
 ## Instagram 
 @techworld_jroshan
 
-✈️ My Machine Learning & Exploladation Data Analysis (EDA) Contibution :- 
+✈️ My Machine Learning & Exploladation Data Analysis (EDA) Contribution :- 
  https://github.com/jroshanjha/MachineLearning  <Br> 
 
 @Software Developer |  Data Scientist & Machine Learning | 💻 Data Analytics | Python | SQL | NLP | Deep Learning  | 💻Content Creator & Educator| 💻Problem Solving skills | 💻Leet Code & Hacker Rank
