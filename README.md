@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Roshan Jha
 
-✅<h3>✅ I'm a Software developer & Looking for a New Opportunity In the Data Domain or Software Developer
+🔭 I'm a Software developer & Looking for a New Opportunity In the Data Domain or Software Developer
 
 Key Skills:- <br>
  Programming Languages: Python, JavaScript, PHP, C/C++  <br>
