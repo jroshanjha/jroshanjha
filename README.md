@@ -31,7 +31,7 @@ https://www.linkedin.com/in/roshan-jha-%F0%9F%87%AE%F0%9F%87%B3-6731b31b2
 @Software Developer |  Data Scientist & Machine Learning | 💻 Data Analytics | Python | SQL | NLP | Deep Learning  | 💻Content Creator & Educator| 💻Problem Solving skills | 💻Leet Code & Hacker Rank
 
 
-# Thank you visit my profile ..
+# Thank you for visiting my profile ..
 
 # Have A Great Day
 
