@@ -2,7 +2,9 @@
 
 🔭 I'm a Software developer & Looking for a New Opportunity In the Data Domain or Software Developer
 
-Key Skills:- <br>
+🌱 I’m currently learning NLP , LANGCHAIN for Generative AI TASK...
+
+ Key Skills:- <br>
  Programming Languages: Python, JavaScript, PHP, C/C++  <br>
  
  Databases: MySQL, PostgreSQL, SQL Server <br>
