@@ -2,28 +2,21 @@
 
 <h4> 🔭 I'm a Software developer & Looking for a New Opportunity In the Data Domain or Software Developer </h4>
 
-🌱 I’m currently learning NLP , LANGCHAIN for Generative AI TASK...
+🌱 I’m currently learning NLP, LANGCHAIN for Generative AI TASK...
 
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate with Data Science Domain...
 
- Key Skills:- <br>
- Programming Languages: Python, JavaScript, PHP, C/C++  <br>
- 
- Databases: MySQL, PostgreSQL, SQL Server <br>
- 
- Data Analysis & Visualization: NumPy, pandas, SQL, Matplotlib, Seaborn, SciPy <br>
- 
- Machine Learning: Regression, Classification, Clustering, Association <br>
- 
- Libraries & Tools: Scikit-learn, TensorFlow, Keras, NLTK, spaCy, FastText <br>
- 
- Frameworks: Flask, Django, CakePHP, Laravel, Bootstrap  <br>
- 
- Other Tools: NLP, Google Colab, Jupyter Notebook, Kaggle <br>
- 
- Version Control: GitHub & Open Force
+ ## SKILLS:
+  Machine Learning, Deep Learning, NLP <br>
+  Programming Languages: Python, JavaScript, PHP, C/C++ <br>
+  Databases: MySQL, PostgreSQL, SQL Server <br>
+  Data Analysis & Visualization: NumPy, pandas, SQL, Matplotlib, Seaborn, SciPy <br>
+  Libraries & Tools: Scikit-learn, TensorFlow, Keras, NLTK, SpaCy, Gensim, FastText <br>
+  Frameworks: Flask, Django, CakePHP, Laravel, Bootstrap, Stremlit <br>
+  Development Tools: VS Code, Jupyter Notebook, Google Colab, Kaggle, and Postman for API Testing <br>
+  Repository : GitHub , OpenForce , Render , Heroku , AWS  <br>
 
-Machine Learning & Statistics | Laravel & CakePHP & MySql  | 💻 Data Analytics ( Python, SQL ) | 💻Content Creator & Educator| 💻Problem Solving | 💻Leet Code & Hacker Rank
+Machine Learning & Statistics | Laravel & CakePHP & MySql  | 💻 Data Analytics ( Python, SQL ) | 💻Content Creator & Educator| 💻Problem Solving skills | 💻Leet Code & Hacker Rank
 
 ✈️ Currently I am Most Interested in Machine learning and Artificial intelligence, like Deep learning, NLP, and Generative AI. 
 
