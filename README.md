@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Roshan Jha
 
-🔭 <h4> I'm a Software developer & Looking for a New Opportunity In the Data Domain or Software Developer </h4>
+<h4> 🔭 I'm a Software developer & Looking for a New Opportunity In the Data Domain or Software Developer </h4>
 
 🌱 I’m currently learning NLP , LANGCHAIN for Generative AI TASK...
 
