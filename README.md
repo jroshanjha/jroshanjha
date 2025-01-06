@@ -11,7 +11,7 @@
   Programming Languages: Python, JavaScript, PHP, C/C++ <br>
   Databases: MySQL, PostgreSQL, SQL Server <br>
   Data Analysis & Visualization: NumPy, pandas, SQL, Matplotlib, Seaborn, SciPy <br>
-  Libraries & Tools: Scikit-learn, TensorFlow, Keras, NLTK, SpaCy, Gensim, FastText <br>
+  Libraries & Tools: Scikit-learn, TensorFlow, Keras, NLTK, SpaCy <br>
   Frameworks: Flask, Django, CakePHP, Laravel, Bootstrap, Stremlit <br>
   Development Tools: VS Code, Jupyter Notebook, Google Colab, Kaggle, and Postman for API Testing <br>
   Repository : GitHub , OpenForce, Render , Heroku <br>
