@@ -1,5 +1,6 @@
 ## Hi there 😄 I'm Roshan Jha .... 
 ## My Portfolio :- [https://jroshanjha.bio.link/]
+@Software Developer |  Data Scientist & Machine Learning | 💻 Data Analytics | Python | SQL | NLP | Deep Learning  | 💻Content Creator & Educator| 💻Problem Solving skills | 💻Leet Code & Hacker Rank
 
 <h4> 🔭 I'm a Software developer & Looking for a New Opportunity In the Data Science Domain or Software Developer </h4>
 
@@ -28,9 +29,6 @@ https://www.linkedin.com/in/roshan-jha-%F0%9F%87%AE%F0%9F%87%B3-6731b31b2
 
 ✈️ My Machine Learning & Exploladation Data Analysis (EDA) Contribution :- 
  https://github.com/jroshanjha/MachineLearning  <Br> 
-
-@Software Developer |  Data Scientist & Machine Learning | 💻 Data Analytics | Python | SQL | NLP | Deep Learning  | 💻Content Creator & Educator| 💻Problem Solving skills | 💻Leet Code & Hacker Rank
-
 
 # Thank you for visiting my profile ..
 
