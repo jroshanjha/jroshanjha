@@ -16,7 +16,7 @@ Data Scientist & Machine Learning | 💻 Data Analytics | Python | SQL | NLP | D
   Libraries & Tools: Scikit-learn, TensorFlow, Keras, NLTK, SpaCy <br>
   Frameworks: Flask, Django, CakePHP, Laravel, Bootstrap, Stremlit <br>
   Development Tools: VS Code, Jupyter Notebook, Google Colab, Kaggle, and Postman for API Testing <br>
-  Repository : GitHub , OpenForce, Render , Heroku <br>
+  Repository : GitHub , OpenForce, Render , Heroku ,Docker and Microsoft Azure <br>
 
 🤔 I’m looking for help with Your For Get better jobs opportunity in  Data Science Domain.
 
