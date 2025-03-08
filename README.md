@@ -20,7 +20,7 @@ Data Scientist & Machine Learning | 💻 Data Analytics | Python | SQL | NLP | D
 
 🤔 I’m looking for help with Your For Get better jobs opportunity in  Data Science Domain.
 
-📫 How to reach me: ...  jroshan731@gmail.com 
+📫 How to reach me: ...  jroshan731@gmail.com  or jroshancode@gmail.com
 
 ## Connect With me:- 
 https://www.linkedin.com/in/roshan-jha-%F0%9F%87%AE%F0%9F%87%B3-6731b31b2
