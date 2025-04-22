@@ -1,58 +1,66 @@
-## Hi there 😄 I'm Roshan Jha ( Data Scientist).... 
-Data Scientist & Machine Learning | 💻 Data Analytics | Python | SQL | NLP | Deep Learning  | 💻Content Creator & Educator| 💻Problem Solving skills | 💻Leet Code & Hacker Rank
-## My Portfolio :- [https://jroshanjha.bio.link/]
+## 👋 Hi there! I'm **Roshan Jha** – a Passionate Data Scientist
 
-<h4> 🔭 I'm a Software developer & Looking for a New Opportunity In the Data Science Domain </h4>
+🚀 Data Scientist | 💡 Machine Learning & Deep Learning | 📊 Data Analytics | 🐍 Python | 🔍 NLP | 🎓 Educator & Content Creator | 🧠 Problem Solver | 🔗 LeetCode & HackerRank Enthusiast
 
-🌱 I’m currently learning More Advanced technique on Deep learning, Generative AI with help of Bosscoder Academy....
+### 📌 Portfolio: [jroshanjha.bio.link](https://jroshanjha.bio.link)
 
-👯👯 I’m looking to collaborate with Data Science team...
+---
 
- ## SKILLS:
-  Machine Learning, Deep Learning, NLP <br>
-  Programming Languages: Python, JavaScript, PHP <br>
-  Databases: MySQL, PostgreSQL, SQL Server <br>
-  Data Analysis & Visualization: NumPy, pandas, SQL, Matplotlib, Seaborn, SciPy <br>
-  Libraries & Tools: Scikit-learn, TensorFlow, Keras, NLTK, SpaCy <br>
-  Frameworks: Flask, Django, CakePHP, Laravel, Bootstrap, Stremlit <br>
-  Development Tools: VS Code, Jupyter Notebook, Google Colab, Kaggle, and Postman for API Testing <br>
-  Repository : GitHub , OpenForce, Render , Heroku ,Docker and Microsoft Azure | AWS  <br>
+### 🔭 I'm a Software Developer actively seeking a new opportunity in the **Data Science domain**.
 
-🤔 I’m looking for help with Your For Get better jobs opportunity in  Data Science Domain.
+🌱 Currently exploring **Advanced Deep Learning** & **Generative AI** with guidance from **Bosscoder Academy**.  
+🤝 Open to **collaborating with Data Science teams** to build innovative ML solutions.
 
-📫 How to reach me: ...  jroshan731@gmail.com  or jroshancode@gmail.com
+---
 
-## Connect With me:- 
-https://www.linkedin.com/in/roshan-jha-%F0%9F%87%AE%F0%9F%87%B3-6731b31b2
-## Instagram 
-@techworld_jroshan
+## 🛠️ Skills & Technologies
 
-✈️ My Machine Learning & Exploladation Data Analysis (EDA) Contribution :- 
- https://github.com/jroshanjha/MachineLearning  <Br> 
+**Core Domains:**  
+- Machine Learning, Deep Learning, NLP, Generative AI  
 
-# Thank you for visiting my profile ..
+**Programming Languages:**  
+- Python, JavaScript, PHP  
 
-# Have A Great Day
+**Databases:**  
+- MySQL, PostgreSQL, SQL Server  
 
-                                                                                                         
+**Data Analysis & Visualization:**  
+- NumPy, pandas, SQL, Matplotlib, Seaborn, SciPy  
 
+**ML/DL Libraries & Tools:**  
+- Scikit-learn, TensorFlow, Keras, NLTK, SpaCy  
 
+**Web Frameworks & Development:**  
+- Flask, Django, CakePHP, Laravel, Bootstrap, Streamlit  
 
- 
+**Dev Tools:**  
+- VS Code, Jupyter Notebook, Google Colab, Kaggle, Postman  
 
- 
+**Cloud & Deployment:**  
+- GitHub, OpenForce, Render, Heroku, Docker, Microsoft Azure, AWS  
 
-<!--
-**jroshanjha/jroshanjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Let's Connect:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: [jroshan731@gmail.com](mailto:jroshan731@gmail.com) | [jroshancode@gmail.com](mailto:jroshancode@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/roshan-jha-🇮🇳-6731b31b2](https://www.linkedin.com/in/roshan-jha-%F0%9F%87%AE%F0%9F%87%B3-6731b31b2)  
+- 📸 Instagram: [@techworld_jroshan](https://www.instagram.com/techworld_jroshan)
+
+---
+
+## 📂 Projects & Contributions
+
+✈️ Check out my Machine Learning & EDA projects:  
+🔗 [GitHub Repository](https://github.com/jroshanjha/MachineLearning)
+
+---
+
+## 🙌 Thank you for visiting my profile!
+
+✨ Let’s build something impactful together.  
+🎯 *Feel free to connect or collaborate—I'm just an email away.*
+
+> *"Code. Learn. Share. Repeat."*
+
+---
