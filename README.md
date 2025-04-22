@@ -2,64 +2,85 @@
 
 🚀 Data Scientist | 💡 Machine Learning & Deep Learning | 📊 Data Analytics | 🐍 Python | 🔍 NLP | 🎓 Educator & Content Creator | 🧠 Problem Solver | 🔗 LeetCode & HackerRank Enthusiast
 
-### 📌 Portfolio: [jroshanjha.bio.link](https://jroshanjha.bio.link)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-jroshanjha.bio.link-informational?style=flat&logo=internet-explorer&color=0e76a8)](https://jroshanjha.bio.link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Jha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/roshan-jha-ind/)
+[![Instagram](https://img.shields.io/badge/Instagram-@techworld__jroshan-ff69b4?style=flat&logo=instagram)](https://www.instagram.com/techworld_jroshan/)
+[![Email](https://img.shields.io/badge/Email-jroshan731@gmail.com-red?style=flat&logo=gmail)](mailto:jroshan731@gmail.com)
 
 ---
 
-### 🔭 I'm a Software Developer actively seeking a new opportunity in the **Data Science domain**.
+### 🔭 I’m a Software Developer actively seeking a new opportunity in the **Data Science domain**.
 
-🌱 Currently exploring **Advanced Deep Learning** & **Generative AI** with guidance from **Bosscoder Academy**.  
-🤝 Open to **collaborating with Data Science teams** to build innovative ML solutions.
+🌱 Currently learning **Advanced Deep Learning** & **Generative AI** via **Bosscoder Academy**  
+🤝 Looking to **collaborate** with forward-thinking Data Science teams  
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Core Domains:**  
-- Machine Learning, Deep Learning, NLP, Generative AI  
+**👨‍💻 Core Domains:**  
+Machine Learning, Deep Learning, NLP, Generative AI  
 
-**Programming Languages:**  
-- Python, JavaScript, PHP  
+**🧑‍💻 Programming Languages:**  
+Python, JavaScript, PHP  
 
-**Databases:**  
-- MySQL, PostgreSQL, SQL Server  
+**🗃️ Databases:**  
+MySQL, PostgreSQL, SQL Server  
 
-**Data Analysis & Visualization:**  
-- NumPy, pandas, SQL, Matplotlib, Seaborn, SciPy  
+**📊 Data Analysis & Visualization:**  
+NumPy, pandas, SQL, Matplotlib, Seaborn, SciPy  
 
-**ML/DL Libraries & Tools:**  
-- Scikit-learn, TensorFlow, Keras, NLTK, SpaCy  
+**🧠 ML/DL Libraries & Tools:**  
+Scikit-learn, TensorFlow, Keras, NLTK, SpaCy  
 
-**Web Frameworks & Development:**  
-- Flask, Django, CakePHP, Laravel, Bootstrap, Streamlit  
+**🌐 Web Frameworks:**  
+Flask, Django, CakePHP, Laravel, Bootstrap, Streamlit  
 
-**Dev Tools:**  
-- VS Code, Jupyter Notebook, Google Colab, Kaggle, Postman  
+**🧰 Dev Tools:**  
+VS Code, Jupyter Notebook, Google Colab, Kaggle, Postman  
 
-**Cloud & Deployment:**  
-- GitHub, OpenForce, Render, Heroku, Docker, Microsoft Azure, AWS  
-
----
-
-## 📫 Let's Connect:
-
-- 📧 Email: [jroshan731@gmail.com](mailto:jroshan731@gmail.com) | [jroshancode@gmail.com](mailto:jroshancode@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/roshan-jha-🇮🇳-6731b31b2](https://www.linkedin.com/in/roshan-jha-%F0%9F%87%AE%F0%9F%87%B3-6731b31b2)  
-- 📸 Instagram: [@techworld_jroshan](https://www.instagram.com/techworld_jroshan)
+**☁️ Cloud & Deployment:**  
+GitHub, OpenForce, Render, Heroku, Docker, Microsoft Azure, AWS  
 
 ---
 
-## 📂 Projects & Contributions
+## 📂 Featured Projects
 
-✈️ Check out my Machine Learning & EDA projects:  
-🔗 [GitHub Repository](https://github.com/jroshanjha/MachineLearning)
+🔹 [Machine Learning & EDA Contribution](https://github.com/jroshanjha/MachineLearning) or (https://github.com/jroshanjha/Data-Analaytics-Project)
+🔹 [Personal Advisor Chat Application (LangChain + Streamlit)](https://github.com/jroshanjha/personal-advisor-chat-application)  
+🔹 [Customer Review Classification](https://github.com/jroshanjha/-Customer-Review-Classification)  
+<!-- 🔹 [Recommendation System Projects](https://github.com/jroshanjha/Recommender-Systems)  -->
+🔹 [Employee Loan Prediction](https://github.com/jroshanjha/employee-loan-prediction)
 
 ---
 
-## 🙌 Thank you for visiting my profile!
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jroshanjha&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jroshanjha&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroshanjha&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📫 Reach Me
+
+📧 [jroshan731@gmail.com](mailto:jroshan731@gmail.com)  
+📧 [jroshancode@gmail.com](mailto:jroshancode@gmail.com)  
+
+💼 [LinkedIn Profile](https://www.linkedin.com/in/roshan-jha-ind/)  
+📸 [Instagram: @techworld_jroshan](https://www.instagram.com/techworld_jroshan/)  
+
+---
+
+## 🙏 Thank You for Visiting!
 
 ✨ Let’s build something impactful together.  
-🎯 *Feel free to connect or collaborate—I'm just an email away.*
+🎯 *Feel free to connect or collaborate — I'm just an email away.*
 
 > *"Code. Learn. Share. Repeat."*
 
