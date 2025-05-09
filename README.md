@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-jroshanjha.bio.link-informational?style=flat&logo=internet-explorer&color=0e76a8)](https://jroshanjha.bio.link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Jha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/roshan-jha-tech/)
-[![Instagram](https://img.shields.io/badge/Instagram-@techworld__jroshan2-ff69b4?style=flat&logo=instagram)](https://www.instagram.com/techworld_jroshan2/)
+[![Instagram](https://img.shields.io/badge/Instagram-@techworld__jroshan2-ff69b4?style=flat&logo=instagram)](https://www.instagram.com/tech_jroshan/)
 [![Email](https://img.shields.io/badge/Email-jroshan731@gmail.com-red?style=flat&logo=gmail)](mailto:jroshan731@gmail.com)
 
 ---
