@@ -11,7 +11,7 @@
 
 ### 🔭 I’m a Software Developer actively seeking a new opportunity in the **Data Science domain**.
 
-🌱 Currently learning **Advanced Deep Learning** & **Generative AI** via **Bosscoder Academy**  
+🌱 Currently learning **Generative AI** via **Bosscoder Academy**  
 🤝 Looking to **collaborate** with forward-thinking Data Science teams  
 
 ---
@@ -50,7 +50,7 @@ GitHub, OpenForce, Render, Heroku, Docker, Microsoft Azure, AWS
 🔹 [Personal Advisor Chat Application (LangChain + Streamlit)](https://github.com/jroshanjha/personal-advisor-chat-application)  
 🔹 [Customer Review Classification](https://github.com/jroshanjha/-Customer-Review-Classification)  
 <!-- 🔹 [Recommendation System Projects](https://github.com/jroshanjha/Recommender-Systems)  -->
-🔹 [Employee Loan Prediction](https://github.com/jroshanjha/employee-loan-prediction)
+🔹 [Employee Loan Prediction](https://github.com/jroshanjha/Loan-approved)
 
 ---
 
