@@ -46,8 +46,8 @@ GitHub, OpenForce, Render, Heroku, Docker, Microsoft Azure, AWS
 
 ## 📂 Featured Projects
 
-🔹 [Machine Learning & EDA Contribution](https://github.com/jroshanjha/MachineLearning) or (https://github.com/jroshanjha/Data-Analaytics-Project)
-🔹 [Personal Advisor Chat Application (LangChain + Streamlit)](https://github.com/jroshanjha/personal-advisor-chat-application)  
+🔹 [Machine Learning & EDA Contribution](https://github.com/jroshanjha/MachineLearning) or (https://github.com/jroshanjha/Data-Analaytics-Project) <br>
+🔹 [Personal Advisor Chat Application (LangChain + Streamlit)](https://github.com/jroshanjha/personal-advisor-chat-application)  <br>
 🔹 [Customer Review Classification](https://github.com/jroshanjha/-Customer-Review-Classification)  
 <!-- 🔹 [Recommendation System Projects](https://github.com/jroshanjha/Recommender-Systems)  -->
 🔹 [Employee Loan Prediction](https://github.com/jroshanjha/Loan-approved)
