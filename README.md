@@ -11,7 +11,7 @@
 
 ### 🔭 I’m Roshan Jha, a Passionate Data Scientist with a strong foundation in Python, SQL, and Machine Learning. I specialize in EDA, feature engineering, statistical modeling,Machine Learning, Deep Learning,NLP , hypothesis testing and time series Analysis to extract actionable insights and solve real-world business problems and take future outcome decision.
 
-🌱 Currently learning **Generative AI** via **Bosscoder Academy**  
+<!-- 🌱 I Have Done **Data Science** via **Bosscoder Academy**   -->
 🤝 Looking to **collaborate** with forward-thinking Data Science teams  
 
 ---
