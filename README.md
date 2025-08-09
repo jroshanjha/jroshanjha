@@ -19,10 +19,10 @@
 ## 🛠️ Skills & Technologies
 
 **👨‍💻 Core Domains:**  
-Machine Learning, Deep Learning, NLP, Generative AI  
+Machine Learning, Deep Learning, NLP, Generative AI , Langchain and LLM
 
 **🧑‍💻 Programming Languages:**  
-Python, JavaScript, PHP  
+Python, JavaScript, PHP  , C/C++
 
 **🗃️ Databases:**  
 MySQL, PostgreSQL, SQL Server  
