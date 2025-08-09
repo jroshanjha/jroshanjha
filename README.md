@@ -37,7 +37,7 @@ Scikit-learn, TensorFlow, Keras, NLTK, SpaCy
 Flask, Django, CakePHP, Laravel, Bootstrap, Streamlit  
 
 **🧰 Dev Tools:**  
-VS Code, Jupyter Notebook, Google Colab, Kaggle, Postman  
+VS Code, Jupyter Notebook, Google Colab, Kaggle, Postman  and CI/CD pipeline
 
 **☁️ Cloud & Deployment:**  
 GitHub, OpenForce, Render, Heroku, Docker, Microsoft Azure, AWS  
@@ -46,6 +46,7 @@ GitHub, OpenForce, Render, Heroku, Docker, Microsoft Azure, AWS
 
 ## 📂 Featured Projects
 
+🔹 [Email Spam Detection( ML/DL)](https://github.com/jroshanjha/Email-spam-detection)
 🔹 [Machine Learning & EDA Contribution](https://github.com/jroshanjha/MachineLearning) or (https://github.com/jroshanjha/Data-Analaytics-Project) <br>
 🔹 [Personal Advisor Chat Application (LangChain + Streamlit)](https://github.com/jroshanjha/personal-advisor-chat-application)  <br>
 🔹 [Customer Review Classification](https://github.com/jroshanjha/-Customer-Review-Classification)  
