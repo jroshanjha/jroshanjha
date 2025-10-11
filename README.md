@@ -99,7 +99,7 @@
 📧 [jroshancode@gmail.com](mailto:jroshancode@gmail.com)  
 
 💼 [LinkedIn Profile](https://www.linkedin.com/in/roshan-jha-ind/)  
-📸 [Instagram: @techworld_jroshan](https://www.instagram.com/techworld_jroshan/)  
+📸 [Instagram: @tech_jroshan](https://www.instagram.com/techworld_jroshan/)  
 
 ---
 
