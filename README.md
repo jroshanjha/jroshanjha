@@ -16,31 +16,55 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies  
 
-**👨‍💻 Core Domains:**  
-Machine Learning, Deep Learning, NLP, Generative AI , Langchain and LLM
+### 👨‍💻 Core Domains  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0078D7?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 
-**🧑‍💻 Programming Languages:**  
-Python, JavaScript, PHP  , C/C++
+### 🧑‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**🗃️ Databases:**  
-MySQL, PostgreSQL, SQL Server  
+### 🗃️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**📊 Data Analysis & Visualization:**  
-NumPy, pandas, SQL, Matplotlib, Seaborn, SciPy  
+### 📊 Data Analysis & Visualization  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-67A9CF?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge)
 
-**🧠 ML/DL Libraries & Tools:**  
-Scikit-learn, TensorFlow, Keras, NLTK, SpaCy  
+### 🧠 ML/DL Frameworks  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-154360?style=for-the-badge)
 
-**🌐 Web Frameworks:**  
-Flask, Django, CakePHP, Laravel, Bootstrap, Streamlit  
+### 🌐 Web Frameworks  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**🧰 Dev Tools:**  
-VS Code, Jupyter Notebook, Google Colab, Kaggle, Postman  and CI/CD pipeline
+### 🧰 Tools & Cloud  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**☁️ Cloud & Deployment:**  
-GitHub, OpenForce, Render, Heroku, Docker, Microsoft Azure, AWS  
 
 ---
 
