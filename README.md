@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm **Roshan Jha** – a Passionate Data Scientist
+## 👋 Hi there! I'm **Roshan Jha** – a Professional Data Scientist
 
 🚀 Data Scientist | 💡 Machine Learning & Deep Learning | 📊 Data Analytics | 🐍 Python | 🔍 NLP | 🎓 Educator & Content Creator | 🧠 Problem Solver | 🔗 LeetCode & HackerRank Enthusiast
 
