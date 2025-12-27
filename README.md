@@ -81,7 +81,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+<!-- ## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jroshanjha&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
@@ -90,7 +90,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroshanjha&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p> -->
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jroshanjha&show_icons=true&theme=tokyonight&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=jroshanjha&theme=tokyonight" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroshanjha&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
 
 ---
 
