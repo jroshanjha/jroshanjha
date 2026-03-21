@@ -10,6 +10,38 @@
 
 ---
 
+## 👉 **SQL Full Flaylist:**
+<p align="center">
+  <img src="assets/demo.gif" width="800"/>
+</p>
+<p align="center">
+  <a href="https://youtube.com/playlist?list=PLG-Gu4JB8iA5Jy0FyrKzAI_M2SUdPQDHi&si=wt5U6LZVydtbkhv4">
+    <img src="https://img.shields.io/badge/Watch-Full%20Video-red?style=for-the-badge&logo=youtube"/>
+  </a>
+</p>
+
+---
+## 👉 **Data Analysis & Data Science | SQL + MySQL | LeetCode Solutions full playlist**
+<p align="center">
+  <img src="assets/demo.gif" width="800"/>
+</p>
+<p align="center">
+  <a href="https://youtube.com/playlist?list=PLG-Gu4JB8iA6JHKPiBkaQtDeTEyqMbiZU">    
+    <img src="https://img.shields.io/badge/Watch-Full%20Video-red?style=for-the-badge&logo=youtube"/>
+  </a>
+</p>
+---
+## 👉 **Python Full Course 2026 | Data Analysis & Data Science**
+<p align="center">
+  <img src="assets/demo.gif" width="800"/>
+</p>
+<p align="center">
+  <a href="https://youtube.com/playlist?list=PLG-Gu4JB8iA4CSuGZhJc2z8OY0oG5PQC0">    
+    <img src="https://img.shields.io/badge/Watch-Full%20Video-red?style=for-the-badge&logo=youtube"/>
+  </a>
+</p>
+
+--- 
 ### 🔭 I’m Roshan Jha, a Professional Data Scientist with a strong foundation in Python, SQL, and Machine Learning. I specialize in EDA, feature engineering, statistical modeling,Machine Learning, Deep Learning,NLP , hypothesis testing and time series Analysis to extract actionable insights and solve real-world business problems and take future outcome decision.
 
 <!-- 🌱 I Have Done **Data Science** via **Bosscoder Academy**   -->
