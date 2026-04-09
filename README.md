@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm **Roshan Jha** – a Professional Data Scientist
+<img width="405" height="720" alt="image" src="https://github.com/user-attachments/assets/7c825759-5780-4eef-97f3-1110694c9da5" />## 👋 Hi there! I'm **Roshan Jha** – a Professional Data Scientist
 
 🚀 Data Scientist | 💡 Machine Learning & Deep Learning | 📊 Data Analytics | 🐍 Python | 🔍 NLP | 🎓 Educator & Content Creator | 🧠 Problem Solver | 🔗 LeetCode & HackerRank Enthusiast
 
@@ -10,12 +10,14 @@
 
 ---
 
-## 👉 **SQL Full Flaylist:**
+<!--## 👉 **SQL Pull Flaylist:** -->
+
+## ** SQL Top Interview Questions:**
 <p align="center">
   <img src="assets/demo.gif" width="800"/>
 </p>
 <p align="center">
-  <a href="https://youtube.com/playlist?list=PLG-Gu4JB8iA5Jy0FyrKzAI_M2SUdPQDHi&si=wt5U6LZVydtbkhv4">
+  <a href="https://www.youtube.com/watch?v=PNZ-uWdJULY">
     <img src="https://img.shields.io/badge/Watch-Full%20Video-red?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
@@ -34,12 +36,14 @@
 
 ---
 
-## 👉 **Python Full Course 2026 | Data Analysis & Data Science**
+<!-- ## 👉 **Python Full Course 2026 | Data Analysis & Data Science** -->
+
+## **Human Behavior Analysis**
 <p align="center">
   <img src="assets/demo.gif" width="800"/>
 </p>
 <p align="center">
-  <a href="https://youtube.com/playlist?list=PLG-Gu4JB8iA4CSuGZhJc2z8OY0oG5PQC0">    
+  <a href="https://www.youtube.com/shorts/3kTQt-rynhg">    
     <img src="https://img.shields.io/badge/Watch-Full%20Video-red?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
