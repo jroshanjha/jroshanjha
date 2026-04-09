@@ -13,7 +13,7 @@
 
 <!--## 👉 **SQL Pull Flaylist:** -->
 
-## ** SQL Top Interview Questions:**
+## **SQL Top Interview Questions:**
 <p align="center">
   <img src="assets/demo.gif" width="800"/>
 </p>
@@ -66,6 +66,7 @@
 ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge)
 
 ### 🧑‍💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
